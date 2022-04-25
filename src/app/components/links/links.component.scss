@@ -1,0 +1,68 @@
+.container{
+    margin-top: 2%;
+}
+.btn{
+    font-size: 14px;
+    border-radius: 5px;
+    height: 57px;
+    bottom: 0;
+    width: 90%;
+    margin:  5%;
+
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  
+    border: solid 1px;
+    border-color: var(--c-medium);
+    border-radius: 10px;
+    outline: none;
+    transition: all 0.25s ease;
+    color: white;
+    h4{
+        margin: 0;
+        font-size: 20px;
+  
+    }
+        
+  
+  }
+
+  .services{
+    background: rgba(56, 56, 56, 0.377);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+
+  .whatsapp{
+    background: rgba(0, 255, 34, 0.5);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    .fa-whatsapp{
+        margin: 1%;
+        font-size: 32px;
+    }
+  }
+  .location{
+    background: rgba(99, 99, 99, 0.212);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    .fa-location-dot{
+        margin: 5%;
+        font-size: 28px;
+    }
+  }
+
+ 
